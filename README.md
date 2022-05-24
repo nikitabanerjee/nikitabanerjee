@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nikita Banerjee
-- 🏫 Currently pursuing PhD in Genomics
+- 🏫 Currently pursuing Ph.D. in Genomics
 - 👀 I’m interested in Bioinformatics, Algorithm, Data Structure, Machine Learning and Deep Learning
 - 🌱 I’m currently learning Big Data using Machine Learning
 - 💞️ I’m looking to collaborate on the above topics
