@@ -4,12 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitabanerjee&label=Profile%20views&color=0e75b6&style=flat" alt="nikitabanerjee" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikitabanerjee" alt="nikitabanerjee" /></a> </p>
-
-- 📫 How to reach me **nikitabanerjee1994@gmail.com**
+Hi 👋, I'm Nikita Banerjee, 🏫 Currently pursuing a Ph.D. from NIT Rourkela. 🔭 I’m currently working on **Bioinformatics, Game theory, Unsupervised learning, and Algorithms** 👯 I’m looking to collaborate on **above topics** 📫 You can reach me **nikitabanerjee1994@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nikita-banerjee-7a0082170/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikita-banerjee-7a0082170/" height="30" width="40" /></a>
+<a href="https://scholar.google.com/citations?user=l-azS0sAAAAJ&hl=en" target="blank"><img align="center" src="https://github.com/nikitabanerjee/nikitabanerjee/blob/main/google%20scholar.png" alt="https://www.linkedin.com/in/nikita-banerjee-7a0082170/" height="30" width="40" /></a>
+<a href="https://www.researchgate.net/profile/Nikita-Banerjee-4" target="blank"><img align="center" src="https://github.com/nikitabanerjee/nikitabanerjee/blob/main/researchgate.png" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
