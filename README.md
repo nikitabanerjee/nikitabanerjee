@@ -16,7 +16,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nikita-banerjee-7a0082170/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikita-banerjee-7a0082170/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nikita-banerjee-7a0082170/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikita-banerjee-7a0082170/" height="30" width="40" /></a>
 <a href="https://scholar.google.com/citations?user=l-azS0sAAAAJ&hl=en" target="blank"><img align="center" src="https://github.com/nikitabanerjee/nikitabanerjee/blob/main/google%20scholar.png" alt="https://www.linkedin.com/in/nikita-banerjee-7a0082170/" height="30" width="40" /></a>
 <a href="https://orcid.org/my-orcid" target="blank"><img align="center" src="https://github.com/nikitabanerjee/nikitabanerjee/blob/main/orcid.png" height="30" width="40" /></a>
 <a href="https://www.researchgate.net/profile/Nikita-Banerjee-4" target="blank"><img align="center" src="https://github.com/nikitabanerjee/nikitabanerjee/blob/main/researchgate.png" height="30" width="40" /></a>
