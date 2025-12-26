@@ -1,17 +1,7 @@
-<h1 align="center">Hi 👋, I'm Nikita Banerjee</h1>
-<h3 align="center">A PhD Scholar from NIT Rourkela, India</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=nikitabanerjee&label=Profile%20views&color=0e75b6&style=flat" alt="nikitabanerjee" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikitabanerjee" alt="nikitabanerjee" /></a> </p>
-<p align="center">
-- 👋 Hello there, I am Nikita Banerjee
-- 🏫 I am currently pursuing my Ph.D. from NIT Rourkela
-- 👀 I’m interested in Bioinformatics, Game theory, Unsupervised learning, and Algorithms
-- 🌱 I’m currently learning Optimization Techniques
-- 💞️ I’m looking to collaborate on the above topics
-- 📫 You can reach me nikitabanerjee1994@gmail.com
-</p>
+# 💫 About Me:
+👋 Hi! I’m a Ph.D. scholar at NIT Rourkela.<br>🔬 My research interests include Bioinformatics, Game Theory, Algorithms, and Machine Learning.<br>💞️ I’m looking to collaborate on the above topics<br> 📫 You can reach me nikitabanerjee1994@gmail.com
  
 
 <h3 align="center">Connect with me:</h3>
@@ -24,13 +14,12 @@
     <img align="center" src="https://github.com/nikitabanerjee/nikitabanerjee/blob/main/gmail.png" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikitabanerjee&show_icons=true&theme=dark&text_color=f1e9e9&bg_color=7f6595&locale=en&layout=compact" alt="nikitabanerjee" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikitabanerjee&show_icons=true&theme=dark&text_color=f9f0f0&bg_color=198079&locale=en" alt="nikitabanerjee" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikitabanerjee&theme=dark" alt="nikitabanerjee" /></p>
+
+
 
 
